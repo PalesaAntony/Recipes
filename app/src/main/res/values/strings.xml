@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="namelabel">"Name : "</string>
+    <string name="typelabel">"Type : "</string>
+    <string name="steplabel">"Step : "</string>
+    <string-array name="slow_beef_stew_ingredients">
+      <item>1.6 - 1.8 kg beef blade slices, bone in</item>
+        <item>olive oil</item>
+        <item>2 onions</item>
+        <item> coarsely chopped</item>
+        <item>150g streaky bacon</item>
+        <item> coarsely sliced</item>
+        <item>"2 large carrots</item>
+        <item>thinly sliced</item>
+        <item>4 large celery sticks</item>
+        <item>thinly sliced</item>
+        <item>250 g large brown mushrooms</item>
+        <item>coarsely chopped</item>
+        <item>1 x 35g sachet of concentrated wet beef stock</item>
+        <item>30 - 50 g tomato paste","250 ml good dry red wine","2 - 3 bay leaves (or to taste)</item>
+        <item>4 - 6 large cloves of garlic, chopped coarsely (or to taste),2 beef stock cubes, crumbled</item>
+        <item>4 - 6 large thyme stalks","250 g baby onions, kept whole</item>
+        <item>250g white button mushrooms</item>
+        <item>45 - 65 ml melted butter</item>
+        <item>45 - 65 ml Sasko Cake Flour","salt and freshly-milled black pepper, to taste</item>
+        <item>chopped thyme (optional)</item>
+        <item> 90 ml Italian parsley or basil, finely chopped,Parsley or whole basil</item>
+    </string-array>
+    <string-array name="choc_cake_Ingredients">
+    <item>2 cups white sugar</item>
+        <item>1 3/4 cups all-purpose flour</item>
+        <item>3/4 cup unsweetened cocoa powder</item>
+        <item>1 1/2 teaspoons baking powder</item>
+        <item>1 1/2 teaspoons baking soda</item>
+        <item>1 teaspoon salt</item>
+        <item>2 eggs</item>
+        <item>1 cup milk</item>
+        <item>1/2 cup vegetable oil</item>
+        <item>2 teaspoons vanilla extract</item>
+        <item>1cup boiling water</item>
+</string-array>
+    <string-array name="choc_cornstarch_ingredients">
+        <item>1/2 cup white sugar</item>
+        <item>3 tablespoons unsweetened cocoa powder</item>
+        <item>1/4 cup cornstarch","1/8 teaspoon salt</item>
+        <item>2 3/4 cups milk","2 tablespoons butter,coldroom temperature</item>
+        <item>1 teaspoon vanilla extract</item>
+    </string-array>
+    <string-array name="herb_dumpling_ingredients">
+        <item>500 ml (250 g) Sasko Cake Flour</item>
+        <item>15 ml baking powder</item>
+        <item>5 ml salt</item>
+        <item>80 ml chopped parsley</item>
+        <item>30 ml oil</item>
+        <item>2 large eggs</item>
+        <item>125 ml milk</item>
+    </string-array>
+    <string-array name="instant_berry_yoghurt_ingredients">
+        <item>250g frozen mixed berry</item>
+        <item>250g 0%-fat Greek yogurt</item>
+        <item>1 tbsp honey or agave syrup</item>
+    </string-array>
+    <string-array name="omelette_ingredients">
+        <item>1 tbsp butter</item>
+        <item>2 eggs</item>
+        <item>2 tbsp milk (or water)</item>
+        <item>salt and pepper</item>
+        <item>fresh parsley</item>
+        <item>spring onions</item>
+        <item>tomato</item>
+        <item>ham/salami/bacon/mince</item>
+        <item>cheese</item>
+    </string-array>
+    <string-array name="peanut_butter_cookies_ingredients">
+        <item>2 cups peanut butter</item>
+        <item>2 cups white sugar</item>
+        <item>2 eggs</item>
+        <item>2 teaspoons baking soda</item>
+        <item>1 pinch salt</item>
+        <item>1 teaspoon vanilla extract</item>
+    </string-array>
+    <string-array name="pumpkin_chess_pie">
+        <item>Pastry for a Single-Crust Pie</item>
+        <item>6 tablespoons butter</item>
+        <item>softened</item>
+        <item>1/3 cups sugar</item>
+        <item> 4 teaspoons cornmeal</item>
+        <item>1 cup canned pumpkin</item>
+        <item>1/3 cup half-and-half or light cream</item>
+        <item>2 egg, lightly beaten</item>
+        <item> 1 teaspoon vanilla</item>
+        <item>1/2 teaspoon salt</item>
+        <item>2 teaspoon ground cinnamon</item>
+        <item>1/4 teaspoon ground nutmeg</item>
+        <item> 1/4 teaspoon ground ginger</item>
+        <item>1/4 teaspoon ground cloves</item>
+    </string-array>
+    <string-array name="slow_beef_stew_directions">
+        <item>Take your time with the meat. It is worth it. First slice the meat off the bones. Reserve the bones and trim the meat of only the hard bits of sinew and the large bits of fat, but leave some fat as it offers the most flavour. Now cut the meat into rustic chunks of about 4 cm. Place the meat in a bowl, cover and place in the fridge until required.</item>
+        <item>Cover the bottom of a large heavy-bottomed saucepan with oil and heat until smoking hot. Quickly brown the bones of the meat and remove from pan. Add the onions and the bacon. Stir quickly to prevent catching. Add the carrots and celery and sauté until everything is nicely browned and has loads of flavour. Add the brown mushrooms and stir fry until they have released their juices</item>
+        <item>Return the bones to the pan and pour in sufficient boiling water to more-than-cover the food in the saucepan. Add the sachet of concentrated stock, the tomato paste, red wine, bay leaves, garlic, stock cubes and thyme. Bring to a boil, reduce heat and cover. Simmer for an hour. Strain the stock into a clean bowl. Push the vegetable mixture against the strainer to extract as much of the stock as possible.</item>
+        <item>You do not need the vegetables and bones any longer so do with them what you deem fit. Set aside the stock and when cool, remove almost all of the fat that has risen to the top.</item>
+        <item>In another saucepan, add some olive oil. Brown the meat in batches. Return all the meat to the pan and add the stock. Make sure that the meat is covered with liquid at all times. You really want a saucy stew so if you have too little stock to cover the meat, add more red wine. Bring to a boil and remove any solids or scum that rise to the top.</item>
+        <item>Reduce the heat, cover and simmer for an hour and a half (or more) until the meat is tender enough for your liking. Check the liquids from time to time and if necessary, add a little water.</item>
+        <item>Meanwhile heat some olive oil and brown the baby onions. Add the mushrooms and brown as well. Once the meat is tender, add the onions and mushrooms and continue to cook for another ten minutes or so or until the onions are tender.</item>
+        <item>Finally, mix together the melted butter and flour and add spoonfulls of this paste to the simmering stew, stirring until the sauce is thickened to your liking. Taste and adjust the seasoning with salt, freshly-milled black pepper and even chopped thyme and minced garlic. Stir in the parsley or basil and scatter with the whole herb leaves. Serve with creamy horseradish mashed potato and steamed broccoli.</item>
+    </string-array>
+    <string-array name="chocolate_cake_direction">
+        <item>Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.</item>
+        <item>In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.</item>
+        <item>Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.</item>
+    </string-array>
+    <string-array name="chocolate_cornstarch_direction">
+        <item>In a saucepan, stir together sugar, cocoa, cornstarch and salt. Place over medium heat, and stir in milk.</item>
+        <item>Bring to a boil, and cook, stirring constantly, until mixture thickens enough to coat the back of a metal spoon.</item>
+        <item>Remove from heat, and stir in butter and vanilla. Let cool briefly, and serve warm, or chill in refrigerator until serving.</item>
+    </string-array>
+    <string-array name="herb_dumpling_direction">
+        <item>Sift the Sasko Cake Flour, baking powder and salt together. Add the chopped parsley.</item>
+        <item>Whisk the oil, eggs and milk together in a separate bowl. Pour the milk mixture into the flour mixture and mix until smooth.</item>
+        <item>Drop spoonsful of the mixture onto your favourite simmering stew (like the Slow Beef Stew) that is almost ready-to-serve.</item>
+        <item>Cover the pot and allow the dumplings to cook for 10 minutes. When the dumplings are ready they will have doubled in size and will be springy to touch. Serves 6 – 8</item>
+    </string-array>
+    <string-array name="instant_berry_yoghurt_direction">
+        <item>Blend berries, yogurt and honey or agave syrup in a food processor for 20 seconds, until it comes together to a smooth ice-cream texture. Scoop into bowls and serve.</item>
+    </string-array>
+    <string-array name="omelette_direction">
+        <item>Mix eggs and milk in a bowl.</item>
+        <item>Add salt and pepper and whisk for one minute - to make sure your omelette will be fluffy.</item>
+        <item>Melt a tablespoon of butter in a pan on medium heat, and pour the egg mix into the pan.</item>
+        <item>Add small pieces of cold meat and sprinkle finely chopped fresh parsley, tomato and spring onions across the omelette.</item>
+        <item>Once the omelette starts to look like it’s cooked all the way through, add the grated cheese and let the omelette cook for another minute or so – until the cheese melts.</item>
+        <item>Fold the omelette in half and serve on toast or fresh bread with butter.</item>
+    </string-array>
+    <string-array name="peanut_butter_cookies_direction">
+        <item>Preheat oven to 350 degrees F (175 degreesC) .Grease cookie sheets.</item>
+        <item>In a medium bowl, stir peanut butter and sugar together until smooth. Beat in the eggs, one at a time, then stir in the baking soda, salt, and vanilla.</item>
+        <item>Roll dough into 1 inch balls and place them 2 inches apart onto the prepared cookie sheets. Press a criss-cross into the top using the back of a fork.</item>
+        <item>Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.</item>
+    </string-array>
+    <string-array name="pumpkin_cheese_pie_direction">
+        <item>Prepare and roll out pastry. Transfer to a 9-inch pie plate as directed. Do not prick pastry. Line pastry with a double thickness of foil; add pie weights, if you like.</item>
+        <item>Bake in a 400 degrees oven for 15 minutes to partially bake pie shell. Remove foil and pie weights. Reduce oven temperature to 350 degrees.</item>
+        <item>In a medium mixing bowl, beat butter with an electric mixer on medium to high speed for 30 seconds. Add sugar and cornmeal. Beat until combined, scraping the sides of the bowl occasionally.</item>
+        <item>Add pumpkin, half-and-half, eggs, vanilla, salt, cinnamon, nutmeg, ginger and cloves. Beat just until combined.</item>
+        <item>Place the pastry-lined pie plate on the oven rack. Carefully pour the pumpkin mixture into the pastry shell. To prevent overbrowning, cover the edge of the pie with foil.</item>
+        <item>Bake in a 350 degrees oven for 25 minutes. Remove foil. Bake for 20 to 25 minutes more or until a knife inserted near the center comes out clean. Cool on a wire rack. Cover and store in the refrigerator within 2 hours.</item>
+    </string-array>
+    <string-array name="recipes">
+        <item>Slow Beef Stew</item>
+        <item>Chocolate Cake</item>
+        <item>Choc Cornstarch</item>
+        <item>Herb Dumpling</item>
+        <item>Instant Berry Yogurt</item>
+        <item>"Omelette</item>
+        <item>Peanut Butter Cookies</item>
+        <item>Pumpkin Chess Pie</item>
+    </string-array>
+    <string-array name="type_of_course">
+        <item>Dinner</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+        <item>Breakfast</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+    </string-array>
+    <string-array name="steps_to_make">
+        <item>8</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>1</item>
+        <item>6</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+</resources>

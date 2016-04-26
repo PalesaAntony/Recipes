@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>@drawable/slow_beef_stew</item>
+        <item>@drawable/choc_cake</item>
+        <item>@drawable/choc_cornstarch</item>
+        <item>@drawable/herb_dumpling</item>
+        <item>@drawable/instant_berry_yogurt</item>
+        <item>@drawable/omelette</item>
+        <item>@drawable/peanut_butter_cookies</item>
+        <item>@drawable/pumpkin_chess_pie</item>
+    </string-array>
+</resources>
